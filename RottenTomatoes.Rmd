@@ -10,11 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 library(usethis)
 
-IMDB <- read.csv("data/imdb_top_1000.csv")
-
-```
-
-```{r}
+RT <- read.csv("data/rotten_tomatoes_movies.csv")
 
 ```
 
